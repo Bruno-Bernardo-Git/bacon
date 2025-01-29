@@ -1,0 +1,66 @@
+html {
+    background-color: rgb(223, 211, 196);
+ }
+
+ #div1 {
+    width: 750px;
+    height: 500px;
+    border: 1px solid red;
+    display: inline-block;
+    position: relative;
+}
+
+img[src="./assets/images/browser.png"] {
+    width: 750px;
+    height: 500px;
+    border: 1px solid red;
+}
+
+#titulo {
+    position: absolute;
+    margin: 0px;
+    border: 1px solid red;
+    width: 200px;
+    margin: 20px;
+    margin-top: -430px;
+    margin-left: 20px;
+    font-size: 2em;
+    color: rgb(80, 125, 248);
+}
+
+#texto {
+    position: absolute;
+    margin: 20px;
+    border: 1px solid red;
+    width: 500px;
+    margin:0px;
+    margin-top: -380px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 540;
+    font-family:cursive ;
+    }
+
+img[src="./assets/images/bacon.png"] {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 0;
+    margin-left: 20px;
+    margin-top: -270px;
+    }
+
+/*teste
+    #inside {
+        border: 1px solid red;
+        margin: 0px;
+        margin-top: -430px;
+        margin-left: 30px;
+        padding: 0px;
+        font-size: 20px;
+        font-weight: 900;
+        color: rgb(82, 132, 240);
+    }
+*/
